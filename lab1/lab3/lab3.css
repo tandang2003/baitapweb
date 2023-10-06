@@ -1,0 +1,54 @@
+.wrapper{
+  width: 1000px;
+  height:auto;
+  text-align: center;
+  margin: auto;
+  color: white;
+}
+.header{
+  border: 2px solid black ;
+  background: orange;
+  margin-bottom: 20px;
+}
+.company{
+  background: gray;
+  border: 2px solid black ;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+.services{
+  color: #222222;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+.main{
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+  font-size: 20px;
+
+}
+.main2{
+  display: flex;
+  justify-content: space-between;
+}
+.s{
+  width: 180px;
+  height: 220px;
+  border: 2px solid black ;
+  background: gray;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  margin-bottom: 10px;
+}
+
+.footer{
+  background: #b3d4fc;
+}
+footer{
+  font-size: 25px;
+}
+
+
