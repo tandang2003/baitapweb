@@ -68,8 +68,8 @@ input:focus-visible, .field-chosen:focus-visible {
     width: 120px;
     padding: 15px 10px;
     border-radius: 30px;
-    border: none;
-
+    /*border: none;*/
+    border: 2px solid #BD59D7;
 }
 
 .wrapper-button {
@@ -79,9 +79,10 @@ input:focus-visible, .field-chosen:focus-visible {
 
 }
 .wrapper-button:hover .button-submit{
+
     background-color: white;
     color: #BD59D7;
-    border: 2px solid #BD59D7;
+
 }
 .orther-descri {
     color: #C1C1C1;
