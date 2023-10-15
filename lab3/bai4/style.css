@@ -85,6 +85,7 @@ margin-right: 10px;
 }
 .button-select-field{
     border: 1px solid #EEEEEE;
+
 }
 .button-select-field button{
     background-color: #F9F9F9;
@@ -103,9 +104,27 @@ margin-right: 10px;
     color: #b9b9b9;
     font-weight: 500;
 }
+.border-radius-5{
+    border-radius: 5px;
+}
+.border-radius-3{
+    border-radius: 3px;
+}
+.border-radius-left-3{
+    border-top-left-radius: 3px;
+    border-bottom-left-radius: 3px;
+}
+.border-radius-right-3{
+    border-top-right-radius: 3px;
+    border-bottom-right-radius: 3px;
+}
 .margin_top_14{
     margin-top: 14px;
 }
 .aline-items-start{
     align-items: flex-start!important;
+}
+.select-chosen{
+    background-color: #88D733!important;
+    color: white!important;
 }

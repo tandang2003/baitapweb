@@ -1,0 +1,122 @@
+body {
+    font-family: Tahoma, Arial, sans-serif;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 720px;
+    margin: 0 auto;
+}
+
+.wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.title {
+    font-size: 20px;
+    margin: 30px auto;
+    color: #2D2C2B;
+}
+
+.content {
+    width: 100%;
+}
+
+.field-input {
+    background-color: #F7F7F7;
+    width: 100%;
+    border-radius: 5px;
+    border: 1px solid #d9d9d9;
+    margin-bottom: 20px;
+}
+
+.field-title {
+    padding: 7px 10px 2px 10px;
+    color: #bbbbbb;
+    margin-bottom: 5px;
+    font-size: 9px;
+
+}
+
+.input, .field-chosen {
+    margin: 3px 0px 4px 10px;
+    background-color: #F7F7F7;
+    color: black;
+    border: none;
+    width: 97%;
+    font-weight: 600;
+    font-size: 15px;
+}
+
+.input:focus-visible, .field-chosen:focus-visible {
+    outline: none;
+}
+
+.row {
+    display: flex;
+    justify-content: space-between;
+}
+
+.w-48 {
+    width: 48%;
+}
+
+.field-chosen option {
+    color: black;
+}
+
+.bg-white {
+    background-color: white;
+}
+
+.area-field {
+    height: 95px;
+    color: black !important;
+}
+
+.submit-button {
+    margin-top: 24px;
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    font-weight: 500;
+    background-color: #2D2C2B;
+    color: white;
+    border-radius: 40px;
+}
+select {
+    /* for Firefox */
+    -moz-appearance: none;
+    /* for Chrome */
+    -webkit-appearance: none;
+}
+.   select:after {
+    content: '<>';
+    font: 17px "Consolas", monospace;
+    color: #333;
+    -webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    transform: rotate(90deg);
+    right: 11px;
+    /*Adjust for position however you want*/
+
+    top: 18px;
+    padding: 0 0 2px;
+    border-bottom: 1px solid #999;
+    /*left line */
+
+    position: absolute;
+    pointer-events: none;
+}
+.wrong{
+    color: red!important;
+    border-color: red;
+}

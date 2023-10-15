@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="container">
+    <form class="wrapper" id="form" method="get" action="">
+        <div class="title">
+            <h2> Contact Us</h2>
+        </div>
+        <div class="content">
+            <div class="field">
+                <div class="field-input field-title-name">
+                    <h6 class="field-title"> FULL NAME*</h6>
+                    <input class="input name"  placeholder="Enter Your Name">
+                </div>
+                <div class="row">
+                    <div class="field-input field-title-email w-48">
+                        <h6 class="field-title "> EMAIL*</h6>
+                        <input class="input email"  placeholder="Enter Your Email">
+                    </div>
+                    <div class="field-input field-title-phone w-48">
+                        <h6 class="field-title "> PHONE</h6>
+                        <input class="input phone"  placeholder="Enter Your Phone">
+                    </div>
+                </div>
+                <div class="field-input">
+                    <h6 class="field-title">NEEDED SERVICES*</h6>
+                    <select class="field-chosen chosen"  placeholder="Please choose">
+                        <option >lựa chọn 1</option>
+                        <option> lựa chọn 2</option>
+                        <option> lựa chọn 3</option>
+                    </select>
+                </div>
+                <div class="field-input bg-white">
+                    <h6 class="field-title">MESSAGE</h6>
+                    <textarea class="input area-field bg-white" placeholder="Your message here">
+
+                    </textarea>
+                </div>
+                <button type="button" class="submit-button" id="button"> Submit</button>
+            </div>
+
+        </div>
+    </form>
+</div>
+
+<script src="jquery.min.js"></script>
+<script src="script.js"></script>
+</body>
+</html>

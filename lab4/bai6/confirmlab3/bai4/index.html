@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css"
+          integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA=="
+          crossorigin="anonymous" referrerpolicy="no-referrer"/>
+    <link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+<div class="container border-radius-5">
+    <div class="wrapper">
+        <section class="wrapper-section">
+            <div class="field-container">
+                <div class="title">
+                    <p>Account</p>
+                </div>
+                <div class="field-content">
+                    <div class="field border-radius-3">
+                        <div class="field-icon">
+                            <i class="fa-solid fa-user icon-color"></i>
+                        </div>
+                        <div class="field-input">
+                            <input type="text" placeholder="Full Name">
+                        </div>
+                    </div>
+                    <div class="field border-radius-3">
+                        <div class="field-icon">
+                            <i class="fa-solid fa-envelope icon-color"></i>
+                        </div>
+                        <div class="field-input">
+                            <input type="email" placeholder="Email Address">
+                        </div>
+                    </div>
+                    <div class="field border-radius-3">
+                        <div class="field-icon">
+                            <i class="fa-solid fa-key icon-color"></i>
+                        </div>
+                        <div class="field-input">
+                            <input type="password" placeholder="Password">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="wrapper-section">
+            <div class="field-two">
+                <div class="field-one">
+                    <div class="field-container">
+                        <div class="title">
+                            <p>Date of Birth</p>
+                        </div>
+                        <div class="field-content one-line gap5 ">
+                            <div class="field margin_bottom_0 height30 border-radius-3">
+                                <div class="field-input ">
+                                    <input class="input-date day" type="text" placeholder="DD">
+                                </div>
+                            </div>
+                            <div class="field margin_bottom_0 height30 border-radius-3">
+                                <div class="field-input">
+                                    <input class="input-date month" type="text" placeholder="MM">
+                                </div>
+                            </div>
+                            <div class="field margin_bottom_0 height30 border-radius-3">
+                                <div class="field-input ">
+                                    <input class="input-date year" type="text" placeholder="YYY">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="field-one">
+                    <div class="field-container">
+                        <div class="title">
+                            <p>Gender</p>
+                        </div>
+                        <div class="field-content one-line" id="selectGender">
+                            <div class="button-select-field border-radius-left-3">
+                                <div class="field-button height30">
+                                    <button class="">Male</button>
+                                </div>
+                            </div>
+                            <div class="button-select-field border-radius-right-3">
+                                <div class="field-button height30">
+                                    <button class="">Female</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="wrapper-section">
+            <div class="field-one">
+                <div class="field-container">
+                    <div class="title">
+                        <p>Payment Details</p>
+                    </div>
+                    <div class="field-content one-line " id="selectPayment">
+                        <div class="button-select-field field border-radius-left-3">
+                            <div class="field-icon border-unset justify-content-none padding-left50">
+                                <i class="fa-brands fa-cc-visa icon-color"></i>
+                            </div>
+                            <div class="field-button ">
+                                <button class="w0">Credit Card</button>
+                            </div>
+                        </div>
+                        <div class="button-select-field field border-radius-right-3">
+                            <div class="field-icon border-unset justify-content-none padding-left50">
+                                <i class="fa-brands fa-cc-paypal icon-color"></i>
+                            </div>
+                            <div class="field-button">
+                                <button class=" w0">Paypal</button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="field-content ">
+                        <div class="field border-radius-3">
+                            <div class="field-icon">
+                                <i class="fa-solid fa-credit-card icon-color"></i>
+                            </div>
+                            <div class="field-input">
+                                <input type="text" placeholder="Card Number">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="field-content one-line">
+                        <div class="field w-50% border-radius-3">
+                            <div class="field-icon">
+                                <i class="fa-solid fa-user icon-color"></i>
+                            </div>
+                            <div class="field-input">
+                                <input type="text" placeholder="Full Name">
+                            </div>
+                        </div>
+                        <div class="field w-50%">
+                            <div class="field-icon">
+                                <i class="fa-solid fa-user icon-color"></i>
+                            </div>
+                            <div class="field-input">
+                                <input type="text" placeholder="Full Name">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="wrapper-section">
+            <div class="field-container">
+                <div class="title">
+                    <p>Terms and Conditions</p>
+                </div>
+                <div class="field-content">
+                    <div class="field aline-items-start">
+                        <input id="checkbox"  type="checkbox" class="margin_top_14">
+                        <p>I accept the terms and conditions for signing to this service, and hereby confirm I have read
+                            the privacy policy</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+</div>
+<script src="jquery.min.js"></script>
+<script src="script.js"></script>
+</body>
+</html>
