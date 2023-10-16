@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
+<%@ taglib prefix = "c" uri = "http://java.sun.com/jsp/jstl/core" %>
 <head>
     <meta charset="UTF-8">
     <title>Title</title>
-    <link rel="stylesheet" href="style.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-
+    <link rel="stylesheet" href="<c:url value="/views/style.css"/>">
+    <link rel="stylesheet" href="<c:url value="/views/fontawesome-free-6.4.2-web/css/all.min.css"/>">
 </head>
 <body>
 <div class="container">
@@ -30,7 +30,7 @@
                 <i class="icon-select fa-brands fa-facebook-f" style="color: #30579c; font-size: 22px"></i>
             </div>
             <div class="icon-container">
-                <img class="icon-select" src="img/google.svg" alt="google icon">
+                <img class="icon-select" src="<c:url value="/views/img/google.svg"/>" alt="google icon">
             </div>
         </div>
         <div class="sign-up-link">
@@ -39,6 +39,6 @@
     </form>
 </div>
 
-<script src="script.js"></script>
+<script src="<c:url value="/views/script.js"/>"></script>
 </body>
 </html>
