@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="230e4d14-ac10-4e0c-ab14-bee041df5c97" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../bai1/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bai1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bai1/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bai1/LearnJSP-SERVLET/Lab5/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bai1/LearnJSP-SERVLET/Lab5/src/main/java/vn/edu/hcmuaf/FormController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bai1/LearnJSP-SERVLET/Lab5/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bai1/LearnJSP-SERVLET/Lab5/src/main/webapp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bai1/LearnJSP-SERVLET/Lab5/src/main/webapp/views/task2/form/form.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bai1/LearnJSP-SERVLET/Lab5/src/main/webapp/views/task2/form/form.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bai1/LearnJSP-SERVLET/Lab5/target/Lab5-1.0-SNAPSHOT/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bai1/LearnJSP-SERVLET/Lab5/target/Lab5-1.0-SNAPSHOT/WEB-INF/lib/jstl-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bai1/LearnJSP-SERVLET/Lab5/target/Lab5-1.0-SNAPSHOT/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bai1/LearnJSP-SERVLET/Lab5/target/Lab5-1.0-SNAPSHOT/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bai1/LearnJSP-SERVLET/Lab5/target/Lab5-1.0-SNAPSHOT/views/task2/form/form.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bai1/LearnJSP-SERVLET/Lab5/target/Lab5-1.0-SNAPSHOT/views/task2/form/form.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bai1/LearnJSP-SERVLET/Lab5/target/Lab5/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bai1/LearnJSP-SERVLET/Lab5/target/Lab5/WEB-INF/task2/form/form.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bai1/LearnJSP-SERVLET/Lab5/target/Lab5/WEB-INF/task2/form/form.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bai1/LearnJSP-SERVLET/Lab5/target/Lab5/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bai1/LearnJSP-SERVLET/Lab5/target/Lab5/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bai1/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/main/webapp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/pom.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2WpISOaSlP9r3QVjpcQ2xQZxrOQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="230e4d14-ac10-4e0c-ab14-bee041df5c97" name="Changes" comment="" />
+      <created>1697423098095</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1697423098095</updated>
+      <workItem from="1697423099082" duration="6000" />
+    </task>
+    <servers />
+  </component>
+</project>
